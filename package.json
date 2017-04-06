@@ -1,14 +1,14 @@
 {
-  "name": "passport-google-token",
-  "version": "0.1.2",
-  "description": "Google token authentication strategy for Passport.",
+  "name": "sails-passport-google-token",
+  "version": "0.1.3",
+  "description": "Google token authentication strategy for Passport with sails support.",
   "author": {
     "name": "Rob DiMarco",
     "email": "dimarco.robert@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/robertdimarco/passport-google-token.git"
+    "url": "git://github.com/nomadeducation/sails-passport-google-token.git"
   },
   "bugs": {
     "url": "http://github.com/robertdimarco/passport-google-token/issues"
@@ -21,7 +21,7 @@
   "engines": { "node": ">= 0.4.0" },
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
-  "keywords": ["passport", "google", "auth", "authn", "authentication", "identity"]
+  "keywords": ["sails", "passport", "google", "auth", "authn", "authentication", "identity"]
 }
